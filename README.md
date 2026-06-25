@@ -4,6 +4,7 @@
 
 **[🔬 Live Demo →](https://asset-manager-2-katiehu506.replit.app/)**
 
+![App Demo](demo.gif)
 ---
 
 ## What It Does
