@@ -1,8 +1,22 @@
 # X-Ray-Diagnosis-Assistant
-Write a short GitHub README for my AI app. ~100 words.
- 
-Project: X-Ray-Diagnosis-Assistant
-What it does: Indentifies X-rays and classifies them as healthy, tuberculosis, covid, or pneumonia
-Live demo: https://asset-manager-2-katiehu506.replit.app/ 
- 
-Sections: title, 1-line summary, live demo link AT THE TOP, what it does, stack.
+
+> AI-powered chest X-ray analysis that classifies pulmonary conditions in seconds.
+
+**[🔬 Live Demo →](https://asset-manager-2-katiehu506.replit.app/)**
+
+---
+
+## What It Does
+
+Upload a chest X-ray and the model instantly classifies it into one of four categories:
+
+- **Healthy** — no detected abnormalities
+- **Tuberculosis** — TB-associated patterns
+- **COVID-19** — COVID-related lung presentation
+- **Pneumonia** — pneumonia indicators
+
+## Stack
+
+- **Model** — Convolutional Neural Network (CNN) for image classification
+- **Backend** — Python
+- **Frontend** — Replit-hosted web interface
